@@ -1,0 +1,27 @@
+.myfont{
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 2px;
+}
+.ulstyle{
+    list-style-type: upper-roman;
+}
+.ulstyle1{
+    list-style-type: square;
+}
+.ulstyle2{
+    /*font-size: 16px;*/
+    list-style-type: square;
+}
+a{
+    text-decoration: none;
+}
+.mytable {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.myth, .mytd {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
